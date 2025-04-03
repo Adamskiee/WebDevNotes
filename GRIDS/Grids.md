@@ -9,6 +9,7 @@
 ![[Pasted image 20250328153512.png]]
 ``grid-template``
 - combine `grid-template-rows` and `grid-template-columns`
+- `grid-template: grid-template-rows / grid-template-columns`
 ### Fraction
 - `3fr` = 3/4
 - `1fr` = 1/4
@@ -26,6 +27,7 @@
 - puts blank space between the rows of the grid
 `gap`
 - combination of `row-gap` and `column-gap`
+- `gap: row-gap / column-gap`
 ![[Pasted image 20250402111558.png]]
 
 ### Multiple Row Items

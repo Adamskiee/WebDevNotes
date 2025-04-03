@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FLEXBOX/FlexBox.md",
+                "file": "GRIDS/Advanced Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FlexBox"
-            }
-          },
-          {
-            "id": "c48640a4680c6bff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GRIDS/img/Screenshot 2025-03-28 153038.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-03-28 153038"
+              "title": "Advanced Grid"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b18bea80d4e98fc7",
@@ -189,12 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c48640a4680c6bff",
+  "active": "c6cdd877b7f54b9f",
   "lastOpenFiles": [
-    "GRIDS/Advanced Grid.md",
-    "GRIDS/img/Pasted image 20250402113513.png",
+    "Pasted image 20250403181110.png",
+    "Pasted image 20250403181017.png",
     "GRIDS/Grids.md",
+    "GRIDS/Advanced Grid.md",
     "FLEXBOX/FlexBox.md",
+    "GRIDS/img/Pasted image 20250402113513.png",
     "GRIDS/img/Pasted image 20250328153512.png",
     "GRIDS/img/Screenshot 2025-03-28 153038.png",
     "GRIDS/img/Pasted image 20250402111558.png",
@@ -208,7 +198,6 @@
     "FLEXBOX/img/Pasted image 20250328133331.png",
     "Welcome.md",
     "FLEXBOX/img/Pasted image 20250328141855.png",
-    "FLEXBOX/img/Pasted image 20250328141838.png",
     "FLEXBOX"
   ]
 }
