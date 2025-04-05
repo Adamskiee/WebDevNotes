@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responsive Design/Sizing Elements.md",
+                "file": "Floats And Media Queries/Float.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sizing Elements"
+              "title": "Float"
             }
           }
         ],
@@ -207,8 +207,15 @@
   },
   "active": "eaabc77a030bfa21",
   "lastOpenFiles": [
-    "Transitions And Animations/CSS Transitions.md",
+    "Floats And Media Queries/Media Queries.md",
+    "Floats And Media Queries/Float.md",
+    "Floats And Media Queries/img/Pasted image 20250405103845.png",
+    "Floats And Media Queries/img/Pasted image 20250405103520.png",
+    "Floats And Media Queries/img",
+    "Floats And Media Queries/img/Pasted image 20250405101909.png",
     "Responsive Design/Sizing Elements.md",
+    "Floats And Media Queries",
+    "Transitions And Animations/CSS Transitions.md",
     "Responsive Design",
     "GRIDS/Advanced Grid.md",
     "GRIDS/Grids.md",
@@ -223,11 +230,8 @@
     "GRIDS/img/Pasted image 20250402102447.png",
     "GRIDS/img",
     "GRIDS",
-    "FLEXBOX/img/Pasted image 20250328123303.png",
     "Untitled 1",
     "FLEXBOX/img",
-    "FLEXBOX/img/Pasted image 20250328140616.png",
-    "FLEXBOX/img/Pasted image 20250328133331.png",
     "Welcome.md",
     "FLEXBOX"
   ]
