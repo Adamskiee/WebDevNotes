@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Connecting to Mysql.md",
+                "file": "PHP/HTML embed PHP sample.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connecting to Mysql"
+              "title": "HTML embed PHP sample"
             }
           }
         ],
@@ -221,6 +221,11 @@
   },
   "active": "e6584f64ae555d18",
   "lastOpenFiles": [
+    "PHP/PHP with HTML sample.md",
+    "Welcome.md",
+    "PHP/HTML embed PHP sample.md",
+    "PHP/Essential function.md",
+    "PHP/Strings.md",
     "PHP/Connecting to Mysql.md",
     "PHP/Introduction/Basics.md",
     "Floats And Media Queries/Float.md",
@@ -249,7 +254,6 @@
     "GRIDS/img",
     "GRIDS",
     "Untitled 1",
-    "FLEXBOX/img",
-    "Welcome.md"
+    "FLEXBOX/img"
   ]
 }
