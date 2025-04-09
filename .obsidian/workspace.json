@@ -62,9 +62,77 @@
               "icon": "lucide-file",
               "title": "HTML embed PHP sample"
             }
+          },
+          {
+            "id": "d719e6a4661c6a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Introduction/Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
+            }
+          },
+          {
+            "id": "fc72f9672067f9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Superglobal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Superglobal"
+            }
+          },
+          {
+            "id": "d76c5ac50f87b8e6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PHP/img/Pasted image 20250409145004.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250409145004"
+            }
+          },
+          {
+            "id": "73ab991bf7098772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Essential function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essential function"
+            }
+          },
+          {
+            "id": "1e8503398d03c01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/PHP with HTML sample.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PHP with HTML sample"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -183,12 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PHP/With mysql/Useful.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Useful"
             }
           },
           {
@@ -206,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,15 +288,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6584f64ae555d18",
+  "active": "1e8503398d03c01b",
   "lastOpenFiles": [
-    "PHP/PHP with HTML sample.md",
-    "Welcome.md",
     "PHP/HTML embed PHP sample.md",
+    "PHP/include and include_once.md",
+    "PHP/With mysql/Connecting to Mysql.md",
+    "PHP/With mysql/Safety from SQL injection attack.md",
+    "PHP/With mysql/Useful.md",
     "PHP/Essential function.md",
     "PHP/Strings.md",
-    "PHP/Connecting to Mysql.md",
+    "PHP/With mysql",
+    "PHP/Class.md",
+    "Untitled.md",
+    "PHP/Functions.md",
     "PHP/Introduction/Basics.md",
+    "PHP/Logical Operator.md",
+    "PHP/Cast types.md",
+    "PHP/img/Pasted image 20250409151147.png",
+    "PHP/img/Pasted image 20250409150618.png",
+    "PHP/== and ===.md",
+    "PHP/Superglobal.md",
+    "PHP/img/Pasted image 20250409144952.png",
+    "PHP/img/Pasted image 20250409145004.png",
+    "PHP/Constant.md",
+    "PHP/img",
+    "PHP/img/Pasted image 20250409142819.png",
+    "PHP/Arrays.md",
+    "PHP/PHP with HTML sample.md",
+    "Welcome.md",
     "Floats And Media Queries/Float.md",
     "PHP/Introduction",
     "PHP",
@@ -246,14 +334,7 @@
     "Transitions And Animations",
     "GRIDS/img/Pasted image 20250403181017.png",
     "FLEXBOX/FlexBox.md",
-    "GRIDS/img/Pasted image 20250402113513.png",
-    "GRIDS/img/Pasted image 20250328153512.png",
-    "GRIDS/img/Screenshot 2025-03-28 153038.png",
-    "GRIDS/img/Pasted image 20250402111558.png",
-    "GRIDS/img/Pasted image 20250402102447.png",
     "GRIDS/img",
-    "GRIDS",
-    "Untitled 1",
-    "FLEXBOX/img"
+    "GRIDS"
   ]
 }

@@ -1,4 +1,4 @@
-
+	
 #### 1. **Create the MySQL Table**
 
 In phpMyAdmin, run this SQL to create the table:
