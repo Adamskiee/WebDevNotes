@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/PHP with HTML sample.md",
+                "file": "PHP/With mysql/Connecting to Mysql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHP with HTML sample"
+              "title": "Connecting to Mysql"
             }
           }
         ],
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b18bea80d4e98fc7",
@@ -290,31 +291,31 @@
   },
   "active": "1e8503398d03c01b",
   "lastOpenFiles": [
-    "PHP/HTML embed PHP sample.md",
-    "PHP/include and include_once.md",
-    "PHP/With mysql/Connecting to Mysql.md",
     "PHP/With mysql/Safety from SQL injection attack.md",
     "PHP/With mysql/Useful.md",
+    "PHP/With mysql/Connecting to Mysql.md",
+    "PHP/Class.md",
     "PHP/Essential function.md",
+    "PHP/Constant.md",
+    "PHP/Functions.md",
+    "PHP/Logical Operator.md",
+    "PHP/include and include_once.md",
+    "PHP/HTML embed PHP sample.md",
+    "PHP/== and ===.md",
+    "PHP/Cast types.md",
+    "PHP/Arrays.md",
+    "PHP/PHP with HTML sample.md",
     "PHP/Strings.md",
     "PHP/With mysql",
-    "PHP/Class.md",
     "Untitled.md",
-    "PHP/Functions.md",
     "PHP/Introduction/Basics.md",
-    "PHP/Logical Operator.md",
-    "PHP/Cast types.md",
     "PHP/img/Pasted image 20250409151147.png",
     "PHP/img/Pasted image 20250409150618.png",
-    "PHP/== and ===.md",
     "PHP/Superglobal.md",
     "PHP/img/Pasted image 20250409144952.png",
     "PHP/img/Pasted image 20250409145004.png",
-    "PHP/Constant.md",
     "PHP/img",
     "PHP/img/Pasted image 20250409142819.png",
-    "PHP/Arrays.md",
-    "PHP/PHP with HTML sample.md",
     "Welcome.md",
     "Floats And Media Queries/Float.md",
     "PHP/Introduction",
