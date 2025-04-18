@@ -137,16 +137,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Untitled 1.md",
+                "file": "PHP/With mysql/Safety from SQL injection attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Safety from SQL injection attack"
+            }
+          },
+          {
+            "id": "cd6630248f1f3534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Validate username.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Validate username"
+            }
+          },
+          {
+            "id": "68b5fe10241f3a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Validate username.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Validate username"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -302,12 +330,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f17a4109ee914ce",
+  "active": "68b5fe10241f3a0a",
   "lastOpenFiles": [
-    "PHP/With mysql/Connecting to Mysql.md",
+    "Javascript/Validate username inside the form.md",
+    "Javascript/Validate username.md",
+    "Javascript/HTML PHP JS.md",
     "Javascript/Untitled 1.md",
-    "Javascript",
     "PHP/With mysql/Safety from SQL injection attack.md",
+    "PHP/With mysql/Connecting to Mysql.md",
+    "Javascript",
     "PHP/With mysql/Useful.md",
     "PHP/Class.md",
     "PHP/Essential function.md",
@@ -342,10 +373,7 @@
     "Floats And Media Queries/img/Pasted image 20250405101909.png",
     "Responsive Design/Sizing Elements.md",
     "Floats And Media Queries",
-    "Transitions And Animations/CSS Transitions.md",
     "Responsive Design",
-    "GRIDS/Advanced Grid.md",
-    "GRIDS/Grids.md",
     "GRIDS/img/Pasted image 20250403181110.png",
     "Transitions And Animations",
     "GRIDS/img/Pasted image 20250403181017.png",

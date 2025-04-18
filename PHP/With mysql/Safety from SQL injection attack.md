@@ -53,6 +53,14 @@ The first argument to `bind_param` is a string representing the type of each of 
   $isbn     = '9780553212587';
   $stmt->execute();
   printf("%d Row inserted.\n", $stmt->affected_rows);
+  // Store result to check if any rows returned
+  $stmt->store_result();
+	
+  if ($stmt->num_rows > 0) {
+	    echo "✅ User exists!";
+	} else {
+	    echo "❌ User does not exist.";
+	}
   $stmt->close();
   $conn->close();
  ?>
