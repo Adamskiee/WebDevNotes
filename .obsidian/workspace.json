@@ -41,196 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Floats And Media Queries/Float.md",
-                "mode": "source",
+                "file": "Sample Project/Untitled/Database/Database Connection.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Float"
-            }
-          },
-          {
-            "id": "e6584f64ae555d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/HTML embed PHP sample.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML embed PHP sample"
-            }
-          },
-          {
-            "id": "d719e6a4661c6a85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Introduction/Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basics"
-            }
-          },
-          {
-            "id": "fc72f9672067f9c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Superglobal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Superglobal"
-            }
-          },
-          {
-            "id": "d76c5ac50f87b8e6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PHP/img/Pasted image 20250409145004.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250409145004"
-            }
-          },
-          {
-            "id": "73ab991bf7098772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Essential function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essential function"
-            }
-          },
-          {
-            "id": "1e8503398d03c01b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/With mysql/Connecting to Mysql.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Connecting to Mysql"
-            }
-          },
-          {
-            "id": "8799adb19170602f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/With mysql/Safety from SQL injection attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Safety from SQL injection attack"
-            }
-          },
-          {
-            "id": "cd6630248f1f3534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Validate username.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Validate username"
-            }
-          },
-          {
-            "id": "68b5fe10241f3a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Validate username inside the form.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Validate username inside the form"
-            }
-          },
-          {
-            "id": "be64123d9d1b742e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/For interaction of pages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "For interaction of pages"
-            }
-          },
-          {
-            "id": "a5e42a63c61f0a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sample Project/Untitled/Sales view.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sales view"
-            }
-          },
-          {
-            "id": "b9e4c0c41651f555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sample Project/Untitled/Sales list page.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sales list page"
-            }
-          },
-          {
-            "id": "5bb2ce6a8af08934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sample Project/Untitled/Sales details view.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sales details view"
+              "title": "Database Connection"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -349,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/With mysql/Useful.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Useful"
+              "title": "Outline"
             }
           },
           {
@@ -373,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,52 +205,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb2ce6a8af08934",
+  "active": "eaabc77a030bfa21",
   "lastOpenFiles": [
-    "Sample Project/Untitled/View sale details.md",
-    "Sample Project/Untitled/Sales details view.md",
-    "Sample Project/Untitled/Sales list page.md",
-    "Sample Project/Untitled/Sales Management.md",
+    "Sample Project/Untitled/Database/Database Schema.md",
+    "Sample Project/Untitled/Login Page.md",
+    "Sample Project/Untitled/Database/Database Connection.md",
+    "Sample Project/Untitled/Dashboard/Dashboard View.md",
+    "Sample Project/Untitled/Dashboard/Dashboard page.md",
     "Sample Project/Untitled/Main javascript.md",
-    "Sample Project/Untitled/Sales view.md",
     "Sample Project/Untitled/New sale view.md",
     "Sample Project/Untitled/New Sale Page.md",
-    "Sample Project/ChatGPT.md",
-    "Sample Project/Untitled/Products View.md",
-    "Sample Project/Untitled/Product Management.md",
-    "Sample Project/Untitled/Dashboard View.md",
-    "Sample Project/Untitled/Dashboard page.md",
+    "Sample Project/Untitled/Purchase New view.md",
+    "Sample Project/Untitled/Purchase management template.md",
+    "Sample Project/Untitled/Purchase management.md",
+    "Sample Project/Untitled/Sales view.md",
+    "Sample Project/Untitled/Sales Management.md",
+    "Sample Project/Untitled/View sale details 1.md",
+    "Sample Project/Untitled/POS view.md",
+    "Sample Project/Untitled/POS PAGE.md",
     "Sample Project/Untitled/Main Layout.md",
-    "Sample Project/Untitled/Main CSS style.md",
-    "Sample Project/Untitled/Login Page.md",
-    "Sample Project/Untitled/Database Connection.md",
-    "Sample Project/Untitled/Database Schema.md",
+    "Sample Project/Untitled/Main Layout 1.md",
+    "Sample Project/Untitled/Receipt view.md",
+    "Sample Project/Untitled/Receipt page.md",
+    "Sample Project/Untitled.md",
+    "Sample Project/Untitled/Purchase view.md",
+    "Sample Project/Untitled/Purchase New.md",
+    "PHP/Essential function.md",
+    "Sample Project/Untitled/User management template.md",
+    "Sample Project/Untitled/User management.md",
+    "Sample Project/Untitled/Database",
+    "Sample Project/Untitled/Dashboard",
     "Sample Project/Untitled",
-    "Responsive Design/Sizing Elements.md",
-    "PHP/With mysql/Safety from SQL injection attack.md",
     "Sample Project",
-    "PHP/With mysql/Useful.md",
-    "PHP/With mysql/Connecting to Mysql.md",
-    "Javascript/Validate username inside the form.md",
-    "PHP/For interaction of pages.md",
-    "Javascript/ES6+ Features.md",
-    "Javascript/HTML PHP JS.md",
     "Javascript",
-    "PHP/With mysql",
     "PHP/img/Pasted image 20250409151147.png",
     "PHP/img/Pasted image 20250409150618.png",
-    "PHP/img/Pasted image 20250409144952.png",
     "PHP/img/Pasted image 20250409145004.png",
-    "PHP/img",
+    "PHP/img/Pasted image 20250409144952.png",
     "PHP/img/Pasted image 20250409142819.png",
+    "PHP/img",
+    "PHP/With mysql",
     "PHP/Introduction",
     "PHP",
     "Floats And Media Queries/img/Pasted image 20250405103845.png",
     "Floats And Media Queries/img/Pasted image 20250405103520.png",
     "Floats And Media Queries/img",
     "Floats And Media Queries/img/Pasted image 20250405101909.png",
-    "Floats And Media Queries",
-    "Responsive Design",
     "GRIDS/img/Pasted image 20250403181110.png",
     "GRIDS/img/Pasted image 20250403181017.png"
   ]
